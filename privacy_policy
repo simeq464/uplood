@@ -1,0 +1,51 @@
+# Privacy Policy for uplood
+
+**Last Updated: 24.08.2025**
+
+This Privacy Policy describes how our bot handles information in connection with your use of the uplood desktop application (the "uplood").
+
+**--- IMPORTANT: DATA STORAGE ---**
+**This Application is designed with privacy as a priority. All sensitive data, including your social media credentials (API Keys, Access Tokens) and application settings, is stored exclusively on your local computer within a `config.json` file. We do not have a central server, we do not collect, and we cannot access any of this information.**
+
+### 1. Information Handled by the Application
+
+The Application handles the following types of information locally on your device:
+
+*   **API Credentials:** To connect to social media platforms, the Application stores credentials you provide, such as Instagram User IDs, Instagram Access Tokens, TikTok Client Keys, and TikTok Client Secrets.
+*   **Content Data:** The Application manages the file paths to your videos and the descriptions you write for them. The video files themselves are not stored within the application's data file, only their location on your computer.
+*   **Configuration Settings:** The Application stores your settings, such as custom upload schedules and your preferred upload mode (Reuse/Stop).
+
+### 2. How Information is Used
+
+Your information is used solely for the core functionality of the Application:
+
+*   **To Authenticate:** Your credentials are sent directly from your computer to the respective social media platform (Instagram/TikTok) to authenticate your account and authorize uploads.
+*   **To Upload Content:** The Application uses your authorization to upload the videos and descriptions you have configured directly to the designated social media platform.
+*   **To Schedule:** The application's scheduler runs locally on your computer to initiate uploads at the times you have set.
+
+### 3. Data Transmission
+
+The Application transmits data **only** when performing its essential functions. This transmission occurs directly between your computer and the official APIs of the social media platforms (Meta for Instagram, TikTok for Developers). **At no point is your data transmitted to or stored on servers controlled by us.**
+
+### 4. Third-Party Services
+
+The Application is a client for third-party services (Instagram and TikTok). Your use of these platforms through our Application is subject to their respective Privacy Policies and Terms of Service. We are not responsible for the data practices of these platforms.
+
+### 5. User Control and Rights
+
+You have complete control over your data. Because all information is stored locally in the `config.json` file, you can manage it directly:
+*   **Access and Edit:** You can view and edit the `config.json` file at any time.
+*   **Deletion:** You can permanently delete all your stored data by deleting the `config.json` file.
+
+### 6. Children's Privacy
+
+The Application is not intended for use by children under the age of 13. We do not knowingly collect any personal information from children.
+
+### 7. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy within the application or on our official repository.
+
+### 8. Contact Us
+
+If you have any questions about this Privacy Policy, please contact us at:
+**[Your Contact Email]**
